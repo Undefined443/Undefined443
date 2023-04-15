@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Straining5
-- 👀 I’m interested in Grand Theft Auto V
-- 🌱 I’m currently learning CMake
+- 👋 Hi, I’m Li Xiao
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Vue 3 & Spring Boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : iPhone4s2008@iCloud.com
+- 📫 How to reach me : xiaoli3397@gmail.com
 
 <!---
-Straining5/Straining5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undefined443/Undefined443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
