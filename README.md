@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Vue 3 & Spring Boot
 - 📫 How to reach me : xiaoli3397@gmail.com
-- I'm a postgradulate student at SYSU.
+- 🎓 I'm a gradulate student at SYSU.
